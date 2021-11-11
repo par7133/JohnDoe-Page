@@ -69,7 +69,7 @@
 
 		<br/><br/>
 
-		<div style="max-height:350px;" align="center">
+		<div id="content" style="max-height:350px;" align="center" style="display:none;">
 
 		<table border="0" style="width:100%;height:349px;">
 		<tr>
@@ -211,7 +211,7 @@
       function startApp() {
         $("#HCsplash").hide("slow");
         $(document.body).css("background","#ffffff");
-        $("#frmHC").show();
+        $("#content").show();
       }			
 
       window.addEventListener("load", function() {
