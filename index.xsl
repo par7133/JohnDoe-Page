@@ -54,6 +54,15 @@
       ]]>
 		  </script>
 
+      <style>
+      .header {
+        height: 65px;
+        vertical-align: middle;
+        border-bottom: 1px solid #2c2f34;
+        padding: 8px;
+      }
+      </style>
+
 	  </HEAD>
 	  
 	  <BODY style="background-color:#FFFFFF">
