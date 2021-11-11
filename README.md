@@ -1,5 +1,7 @@
 # Secchione
-Every person its website..
+Every person its presence..
+
+Welcome to Secchione!
 
 Secchione is a small software on premise to let anyone have its web presence.   
 
