@@ -77,7 +77,7 @@
 		<p align="center">
 
 	    <a>
-	      	<xsl:attribute name="target">_blank</xsl:attribute> 
+	      	<xsl:attribute name="target">_self</xsl:attribute> 
           <xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='personal-image']/ADDRESS"/></xsl:attribute>
           <img >
 		  		  <xsl:attribute name="border">0</xsl:attribute> 
