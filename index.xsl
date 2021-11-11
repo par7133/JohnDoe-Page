@@ -214,10 +214,12 @@
       }			
 
       window.addEventListener("load", function() {
+        alert("hello1");
         $(document.body).css("background","#000000");
         $("#HCsplash").show("slow");	  
         setTimeout("hideTitle()", 2000);
         setTimeout("startApp()", 4000);
+        alert("hello2");
       }, true);
       
 		</script>
