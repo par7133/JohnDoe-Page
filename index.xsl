@@ -78,7 +78,7 @@
 
 		<br/><br/><br/>
 
-		<div style="max-height:450px;" align="center">
+		<div style="max-height:350px;" align="center">
 
 		<table border="0" width="100%" height="349px">
 		<tr>
