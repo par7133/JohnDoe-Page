@@ -89,7 +89,7 @@
 
 		</p>
 		
-		<p align="center">
+		<p align="center" style="text-align:center;">
 		
 		<xsl:for-each select="LINK[TYPE='resume']">
 		
