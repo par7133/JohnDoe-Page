@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+
+<!-- File name: index.xml 
+
+ Copyright 2021, 2024 5 Mode
+ 
+ This file is part of Secchione.
+ 
+ Secchione is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ Secchione is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.  
+ 
+ You should have received a copy of the GNU General Public License
+ along with Secchione. If not, see <https://www.gnu.org/licenses/>.
+
+ index.xml
+  
+ Secchione index file.
+ 
+ @author Daniele Bonini <my25mb@aol.com>
+ @copyrights (c) 2021, 2024, 5 Mode     
+
+-->
+
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+
+<CONTENT>
+	<LINK>
+		<TEXT></TEXT>
+		<IMAGE>
+		   <ADDRESS>/foto.jpg</ADDRESS>
+		   <WIDTH>140</WIDTH>
+		   <HEIGHT>169</HEIGHT> 
+		</IMAGE>   
+		<ADDRESS>/</ADDRESS>
+		<TYPE>personal-image</TYPE>
+		<INDEX>1</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>cv</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>/cv.doc</ADDRESS>
+		<TYPE>resume</TYPE>
+		<TITLE>Download CV</TITLE>
+		<INDEX>1</INDEX> 
+	</LINK>
+  <LINK>
+		<TEXT>Linkedin</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>http://linkedin.com/</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Linkedin public profile</TITLE>
+		<INDEX>1</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Facebook</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>https://www.facebook.com/</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Facebook page</TITLE>
+		<INDEX>2</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Stradario</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>/stradario.pdf</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Map</TITLE>
+		<INDEX>3</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>Italian cheetsheet</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>/Italian-cheetsheet.pdf</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>Some basics of the Italian language</TITLE>
+		<INDEX>4</INDEX>
+	</LINK>
+	<LINK>
+		<TEXT>5 Mode</TEXT>
+		<IMAGE>
+		   <ADDRESS>/5mode.png</ADDRESS>
+		   <WIDTH>129</WIDTH>
+		   <HEIGHT>61</HEIGHT> 
+		</IMAGE>
+		<ADDRESS>http://5mode.com/</ADDRESS>
+		<TYPE>sponsor</TYPE>
+		<TITLE>5 Mode</TITLE>
+		<INDEX>1</INDEX>
+	</LINK>
+</CONTENT>
