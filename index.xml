@@ -62,7 +62,7 @@
 	<LINK>
 		<TEXT>Facebook</TEXT>
 		<IMAGE></IMAGE>
-		<ADDRESS>https://www.facebook.com/</ADDRESS>
+		<ADDRESS>http://www.facebook.com/</ADDRESS>
 		<TYPE>footer</TYPE>
 		<TITLE>My Facebook page</TITLE>
 		<INDEX>2</INDEX>
