@@ -129,7 +129,7 @@
 
 				    <a>
 			      	<xsl:attribute name="target">_blank</xsl:attribute>
-			      	<xsl:attribute name="style">font-family: sans-serif; font-size: 13px</xsl:attribute> 
+			      	<xsl:attribute name="style">font-family: sans-serif; color: blue; font-size: 13px</xsl:attribute> 
               <xsl:attribute name="href"><xsl:value-of select="ADDRESS"/></xsl:attribute>
 	            <xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
 	            <xsl:value-of select="TEXT"/>
