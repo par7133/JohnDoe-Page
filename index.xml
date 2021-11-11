@@ -83,16 +83,4 @@
 		<TITLE>Some basics of the Italian language</TITLE>
 		<INDEX>4</INDEX>
 	</LINK>
-	<LINK>
-		<TEXT>5 Mode</TEXT>
-		<IMAGE>
-		   <ADDRESS>/res/5mode.png</ADDRESS>
-		   <WIDTH>129</WIDTH>
-		   <HEIGHT>61</HEIGHT> 
-		</IMAGE>
-		<ADDRESS>http://5mode.com/</ADDRESS>
-		<TYPE>sponsor</TYPE>
-		<TITLE>5 Mode</TITLE>
-		<INDEX>1</INDEX>
-	</LINK>
 </CONTENT>

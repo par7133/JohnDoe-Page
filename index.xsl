@@ -162,21 +162,21 @@
 		
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-		< Copyrights  
+		 opyrights  
 		]]>
     </SPAN>
 
     <a>
       <xsl:attribute name="target">_blank</xsl:attribute>
       <xsl:attribute name="style">font-family: sans-serif; color: #000000; font-size: 9px</xsl:attribute> 
-      <xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='sponsor']/ADDRESS"/></xsl:attribute>
-      <xsl:attribute name="title"><xsl:value-of select="LINK[TYPE='sponsor']/TITLE"/></xsl:attribute>
-      <xsl:value-of select="LINK[TYPE='sponsor']/TEXT"/>
+      <xsl:attribute name="href">http://5mode.com</xsl:attribute>
+      <xsl:attribute name="title">5 Mode</xsl:attribute>
+      5 Mode
     </a>
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-     2021, 2024 - All rights reserved >
+     2021, 2024 - All rights reserved
 		]]>
     </SPAN>
     
@@ -184,13 +184,13 @@
     
     	 <a>
 	      	<xsl:attribute name="target">_blank</xsl:attribute> 
-          <xsl:attribute name="href"><xsl:value-of select="LINK[TYPE='sponsor']/ADDRESS"/></xsl:attribute>
-          <xsl:attribute name="title"><xsl:value-of select="LINK[TYPE='sponsor']/TITLE"/></xsl:attribute>
+          <xsl:attribute name="href">http://5mode.com</xsl:attribute>
+          <xsl:attribute name="title">5 Mode</xsl:attribute>
           	<img >
 		      		<xsl:attribute name="border">0</xsl:attribute> 
-		  		    <xsl:attribute name="src"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/ADDRESS"/></xsl:attribute>
-		  	    	<xsl:attribute name="width"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/WIDTH"/></xsl:attribute>
-		  		    <xsl:attribute name="height"><xsl:value-of select="LINK[TYPE='sponsor']/IMAGE/HEIGHT"/></xsl:attribute>
+		  		    <xsl:attribute name="src">/res/5mode.png</xsl:attribute>
+		  	    	<xsl:attribute name="width">129</xsl:attribute>
+		  		    <xsl:attribute name="height">61</xsl:attribute>
 			     </img> 
       </a>
         
