@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0px; 
+  padding: 0px;
+  /*height:100%;*/ 
+  font-family: helvetica neue,helvetica,arial,sans-serif;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+.header {
+  height: 65px;
+  vertical-align: middle;
+  border-bottom: 1px solid #2c2f34;
+  padding: 8px;
+}
