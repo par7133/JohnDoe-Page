@@ -201,7 +201,7 @@
     </div>
 
 
-		<script language="text/javascript">
+		<script>
       
       function hideTitle() {
         $("#myh1").hide("slow");
