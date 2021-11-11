@@ -133,7 +133,7 @@
               <xsl:attribute name="href"><xsl:value-of select="ADDRESS"/></xsl:attribute>
 	            <xsl:attribute name="title"><xsl:value-of select="TITLE"/></xsl:attribute>
 	            <xsl:value-of select="TEXT"/>
-		        </a>&#8201;
+		        </a>&#8201; &#8201; &#8201; 
 
 				  </xsl:when>    
 			    <xsl:otherwise>
@@ -148,7 +148,7 @@
 				  		  <xsl:attribute name="width"><xsl:value-of select="IMAGE/WIDTH"/></xsl:attribute>
                 <xsl:attribute name="height"><xsl:value-of select="IMAGE/HEIGHT"/></xsl:attribute>
 					    </img> 
-	        </a>&#8201;
+	        </a>&#8201; &#8201; &#8201; 
 			
 			    </xsl:otherwise>
 			
