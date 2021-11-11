@@ -162,7 +162,7 @@
 		
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-		 opyrights  
+		 Copyrights  
 		]]>
     </SPAN>
 
