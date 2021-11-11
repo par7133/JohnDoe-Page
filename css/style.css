@@ -14,5 +14,6 @@ body {
   vertical-align: middle;
   border-bottom: 1px solid #2c2f34;
   padding: 8px;
+  padding-bottom: 0px;
   font-size: 13px;
 }
