@@ -5,7 +5,7 @@ Secchione is a small software on premise to let anyone have its web presence.
 
 The installation of Secchione is quite straightforward, just copy all the files of this repository to have your own website.   
 
-Indeed, there are a couple of things you need customize by your own:   
+Indeed, there are a couple of things you need customize by your self:   
 <ul>
 <li>Replace cv.doc with your cv.</li>
 <li>Replace foto.jpg with your picture.</li>
