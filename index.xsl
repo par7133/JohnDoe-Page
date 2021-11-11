@@ -128,8 +128,6 @@
 		<tr>
 		<td valign="top" align="center" style="height:30%">
 
-		<br/><br/>
-
 		<xsl:for-each select="LINK[TYPE='footer']">
 		
 			<xsl:sort select="INDEX" data-type="number" order="ascending"/>
