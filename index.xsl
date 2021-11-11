@@ -116,7 +116,7 @@
 		
     <br/><br/>
     
-    <div style="max-width: 300px; height: 50px; max-height: 50px; font-size:11px;">  
+    <div style="max-width: 300px; height: fit-content; font-size:11px;">  
     <!-- short description -->  
     </div>
     
