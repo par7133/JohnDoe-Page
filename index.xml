@@ -56,7 +56,7 @@
 		<IMAGE></IMAGE>
 		<ADDRESS>http://linkedin.com/</ADDRESS>
 		<TYPE>footer</TYPE>
-		<TITLE>Linkedin public profile</TITLE>
+		<TITLE>My Linkedin public profile</TITLE>
 		<INDEX>1</INDEX>
 	</LINK>
 	<LINK>
@@ -64,7 +64,7 @@
 		<IMAGE></IMAGE>
 		<ADDRESS>https://www.facebook.com/</ADDRESS>
 		<TYPE>footer</TYPE>
-		<TITLE>Facebook page</TITLE>
+		<TITLE>My Facebook page</TITLE>
 		<INDEX>2</INDEX>
 	</LINK>
 	<LINK>
@@ -86,7 +86,7 @@
 	<LINK>
 		<TEXT>5 Mode</TEXT>
 		<IMAGE>
-		   <ADDRESS>/5mode.png</ADDRESS>
+		   <ADDRESS>/res/5mode.png</ADDRESS>
 		   <WIDTH>129</WIDTH>
 		   <HEIGHT>61</HEIGHT> 
 		</IMAGE>
