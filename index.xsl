@@ -57,7 +57,7 @@
 	  <BODY style="background-color:#FFFFFF">
 
     <div id="HCsplash" style="padding-top: 160px; text-align:center;color:#ffffff;display:none;">
-       <div id="myh1"><H1>Secchione</H1></div></br>
+       <div id="myh1"><H1>Secchione</H1></div><br/>
        <img src="/res/logo.png" style="width:310px;"/>
     </div>
 
