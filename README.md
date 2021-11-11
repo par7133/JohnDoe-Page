@@ -11,7 +11,7 @@ Indeed, there are a couple of things you need customize by your self:
 <ul>
 <li>Replace cv.doc with your cv.</li>
 <li>Replace foto.jpg with your picture.</li>
-<li>Replace stradario.pdf with the map of your city (in pdf format).</li>
+<li>Replace map.pdf with the map of your city (in pdf format).</li>
 <li>In index.xml you need find out "http://linkedin.com/" and replace it with your linkedin profile url.</li>
 <li>Still in index.xml you need find out "http://facebook.com/" and replace it with your facebook page address.</li>
 </ul>  
