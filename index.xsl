@@ -69,7 +69,7 @@
 
 		<br/><br/>
 
-		<div id="content" style="max-height:350px;" align="center" style="display:none;">
+		<div id="content" style="max-height:350px;display:none;" align="center">
 
 		<table border="0" style="width:100%;height:349px;">
 		<tr>
