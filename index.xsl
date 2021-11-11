@@ -73,7 +73,7 @@
 
 		<table border="0" width="100%" height="449px">
 		<tr>
-		<td height="70%" align="center">
+		<td height="50%" align="center">
 		<p align="center">
 
 	    <a>
