@@ -1,5 +1,5 @@
 # Secchione
-Every person its web presence..
+Every person its online presence..
 
 Welcome to Secchione!
 
