@@ -202,7 +202,6 @@
 
 
 		<script language="text/javascript">
-		<![CDATA[ 
       
       function hideTitle() {
         $("#myh1").hide("slow");
@@ -221,7 +220,6 @@
         setTimeout("startApp()", 4000);
       }, true);
       
-		]]>
 		</script>
 
     <br/><br/><br/><br/><br/> 
