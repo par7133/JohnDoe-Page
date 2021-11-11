@@ -71,7 +71,7 @@
 
 		<div style="max-height:450px;" align="center">
 
-		<table border="0" width="100%" height="449px">
+		<table border="0" width="100%" height="349px">
 		<tr>
 		<td height="50%" align="center">
 		<p align="center">
