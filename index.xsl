@@ -62,7 +62,7 @@
     </div>
 
     <div class="header">
-      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="http://secchi.one" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;"/>&nbsp;Secchione</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="agithub" href="https://github.com/par7133/Secchione" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="afeedback" href="mailto:info@secchi.one" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="asupport" href="tel:+39-331-4029415" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&nbsp;&nbsp;get support
+      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="http://secchi.one" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;"/>&#8201;Secchione</a>&#8201;&#8201;&#8201;&#8201;&#8201;&#8201;&#8201;<a id="agithub" href="https://github.com/par7133/Secchione" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201;&#8201;&#8201;&#8201;&#8201;&#8201;<a id="afeedback" href="mailto:info@secchi.one" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201;&#8201;&#8201;&#8201;&#8201;<a id="asupport" href="tel:+39-331-4029415" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201;&#8201;get support
     </div>
 
 		<br/><br/><br/>
