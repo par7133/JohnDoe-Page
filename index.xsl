@@ -80,9 +80,9 @@
 
 		<div style="max-height:350px;" align="center">
 
-		<table border="0" width="100%" height="349px">
+		<table border="0" style="width=100%;height:349px;">
 		<tr>
-		<td height="40%" align="center">
+		<td halign="center" style="height:70%">
 		<p align="center">
 
 	    <a>
@@ -126,7 +126,7 @@
 		</tr>
 		
 		<tr>
-		<td valign="top" align="center">
+		<td valign="top" align="center" style="height:30%">
 
 		<br/><br/>
 
