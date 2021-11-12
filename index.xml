@@ -83,4 +83,12 @@
 		<TITLE>Some basics of the Italian language</TITLE>
 		<INDEX>4</INDEX>
 	</LINK>
+	<LINK>
+		<TEXT>Contacts</TEXT>
+		<IMAGE></IMAGE>
+		<ADDRESS>mailto:info@secchi.one</ADDRESS>
+		<TYPE>footer</TYPE>
+		<TITLE>You can contact me here</TITLE>
+		<INDEX>5</INDEX>
+	</LINK>
 </CONTENT>
