@@ -22,3 +22,6 @@ Indeed, there are a couple of things you need customize by your self:
    
 Please enjoy and let us know about any feedback to <a href="info@secchi.one">info@secchi.one</a>  
   
+## Screenshots
+	   
+ ![Secchione](/res/screenshot1.png)  
