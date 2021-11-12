@@ -15,8 +15,8 @@ Indeed, there are a couple of things you need customize by your self:
 <li>In index.xml you need to:</li>
 <ol>   
 <li>find out "http://linkedin.com/" and replace it with your linkedin profile url.</li>
-<li>Find out "http://facebook.com/" and replace it with your facebook page address.</li>
-<li>Find out "info@secchi.one" and replace it with your email address.</li>
+<li>find out "http://facebook.com/" and replace it with your facebook page address.</li>
+<li>find out "info@secchi.one" and replace it with your email address.</li>
 <ol>   
 </ul>  
    
