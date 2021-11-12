@@ -215,7 +215,8 @@
       }			
 
       window.addEventListener("load", function() {
-        $(document.body).css("background","#000000");
+        $(document.body).css("background","#ffffff");
+        $("#HCsplash").css("color","#000000");
         $("#HCsplash").show("slow");	  
         setTimeout("hideTitle()", 2000);
         setTimeout("startApp()", 4000);
