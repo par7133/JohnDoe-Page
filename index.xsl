@@ -189,7 +189,7 @@
           	<img >
 		      		<xsl:attribute name="border">0</xsl:attribute> 
 		  		    <xsl:attribute name="src">/res/5mode.png</xsl:attribute>
-		  	    	<xsl:attribute name="width">129</xsl:attribute>
+		  	    	<xsl:attribute name="width">80</xsl:attribute>
 		  		    <xsl:attribute name="height"></xsl:attribute>
 			     </img> 
       </a>
