@@ -1,9 +1,9 @@
-# Secchione
+# John Doe Page
 Every person its online presence..
 
-Welcome to Secchione!
+Welcome to John Doe Page!
 
-Secchione is a small software on premise to let anyone have its web presence.   
+John Doe Page is a small software on premise to let anyone have its web presence.   
 
 The installation of Secchione is quite straightforward: just copy all the files of this repository to your website to have your own presence.    
 
@@ -16,11 +16,11 @@ Indeed, there are a couple of things you need customize by your self:
 <ol>   
 <li>find out "http://linkedin.com/" and replace it with your linkedin profile url.</li>
 <li>find out "http://facebook.com/" and replace it with your facebook page address.</li>
-<li>find out "info@secchi.one" and replace it with your email address.</li>
+<li>find out "info@johndoe.page" and replace it with your email address.</li>
 <ol>   
 </ul>  
    
-Please enjoy and let us know about any feedback to <a href="info@secchi.one">info@secchi.one</a>  
+Please enjoy and let us know about any feedback to <a href="info@johndoe.page">info@johndoe.page</a>  
   
 ## Screenshots
 	   
