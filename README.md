@@ -20,8 +20,8 @@ Indeed, there are a couple of things you need customize by your self:
 <ol>   
 </ul>  
    
-Please enjoy and let us know about any feedback to <a href="info@johndoe.page">info@johndoe.page</a>  
-  
 ## Screenshots
 	   
- ![Secchione](/res/screenshot1.png)  
+ ![John Doe Page](/res/screenshot1.png)  
+
+Feedback: <a href="posta@elettronica.lol">posta@elettronica.lol</a>  
