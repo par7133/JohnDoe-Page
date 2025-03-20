@@ -24,4 +24,4 @@ Indeed, there are a couple of things you need customize by your self:
 	   
  ![John Doe Page](/res/screenshot1.png)  
 
-Feedback: <a href="posta@elettronica.lol">posta@elettronica.lol</a>  
+Feedback: <a href="code@gaox.io">code@gaox.io</a>  
