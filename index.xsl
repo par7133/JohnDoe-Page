@@ -66,7 +66,7 @@
 		<div id="content" style="max-height:350px;display:none;" align="center">
 
     <div class="header">
-      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="http://johndoe-page.5mode-foss.eu" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;vertical-align:middle;"/>&#8201; John Doe Page</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; &#8201;<a id="agithub" href="https://github.com/par7133/JohnDoe-Page" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; <a id="afeedback" href="mailto:code@gaox.io" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201; &#8201; &#8201; &#8201; &#8201; <a id="asupport" href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201; &#8201; get support&#8201; &#8201; </a>
+      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="http://johndoe-page.numode-foss.eu" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;vertical-align:middle;"/>&#8201; John Doe Page</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; &#8201;<a id="agithub" href="https://github.com/par7133/JohnDoe-Page" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; <a id="afeedback" href="mailto:code@gaox.io" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201; &#8201; &#8201; &#8201; &#8201; <a id="asupport" href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201; &#8201; get support&#8201; &#8201; </a>
     </div>
 
 		<br/><br/>
@@ -171,7 +171,7 @@
       <xsl:attribute name="style">font-family: sans-serif; color: #000000; font-size: 9px</xsl:attribute> 
       <xsl:attribute name="href">http://numode.eu</xsl:attribute>
       <xsl:attribute name="title">NuMode</xsl:attribute>
-      5 Mode
+      NuMode
     </a>
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
@@ -233,5 +233,6 @@
 	</xsl:template>
 
 </xsl:stylesheet> 
+
 
 
