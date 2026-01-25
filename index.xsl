@@ -176,7 +176,7 @@
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
 		<![CDATA[
-     2021, 2024 - All rights reserved
+     2021, 2028 - All rights reserved
 		]]>
     </SPAN>
     
@@ -184,11 +184,11 @@
     
     	 <a>
 	      	<xsl:attribute name="target">_blank</xsl:attribute> 
-          <xsl:attribute name="href">http://5mode.com</xsl:attribute>
+          <xsl:attribute name="href">http://numode.eu</xsl:attribute>
           <xsl:attribute name="title">5 Mode</xsl:attribute>
           	<img >
 		      		<xsl:attribute name="border">0</xsl:attribute> 
-		  		    <xsl:attribute name="src">/res/5mode.png</xsl:attribute>
+		  		    <xsl:attribute name="src">/res/numode.png</xsl:attribute>
 		  	    	<xsl:attribute name="width">80</xsl:attribute>
 		  		    <xsl:attribute name="height"></xsl:attribute>
 			     </img> 
@@ -233,3 +233,4 @@
 	</xsl:template>
 
 </xsl:stylesheet> 
+
