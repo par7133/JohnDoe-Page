@@ -169,8 +169,8 @@
     <a>
       <xsl:attribute name="target">_blank</xsl:attribute>
       <xsl:attribute name="style">font-family: sans-serif; color: #000000; font-size: 9px</xsl:attribute> 
-      <xsl:attribute name="href">http://5mode.com</xsl:attribute>
-      <xsl:attribute name="title">5 Mode</xsl:attribute>
+      <xsl:attribute name="href">http://numode.eu</xsl:attribute>
+      <xsl:attribute name="title">NuMode</xsl:attribute>
       5 Mode
     </a>
 
@@ -233,4 +233,5 @@
 	</xsl:template>
 
 </xsl:stylesheet> 
+
 
